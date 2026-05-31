@@ -454,6 +454,14 @@ const animeList = [
         },
 
         {
+            title: "Terror In Resonance",
+            type: "series",
+            status: "completed",
+            image: "images/terror-in-resonance.webp",
+            link: "https://myanimelist.net/anime/23283/Zankyou_no_Terror"
+        },
+    
+        {
             title: "Charlotte",
             type: "series",
             status: "completed",
