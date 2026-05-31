@@ -460,7 +460,7 @@ const animeList = [
             image: "images/terror-in-resonance.webp",
             link: "https://myanimelist.net/anime/23283/Zankyou_no_Terror"
         },
-    
+
         {
             title: "Charlotte",
             type: "series",
